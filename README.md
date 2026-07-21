@@ -73,15 +73,16 @@ Acompanhamento do ciclo de vida das entregas e detalhamento do backlog com crit�
 
 ## 📖 Artigos Científicos & Publicações Acadêmicas
 
-O projeto foi documentado e apresentado em artigos acadêmicos aprovados no Simpósio da Bacia do Juquery (SIMBAJU - FATEC):
+O projeto foi documentado e publicado em artigos científicos aprovados no Simpósio da Bacia do Juquery (SIMBAJU - FATEC):
 
-1. 📄 [**Fase 1: Mapeamento do Processo Comunicacional da Brigada (III SIMBAJU - Junho/2025)**](./fase1-mapeamento-processos-bpmn.pdf)  
-   * **Foco:** Diagnóstico situacional, Business Model Canvas, Personas, Mapas de Empatia e Mapeamento BPMN *As-Is*.
-2. 📄 [**Fase 2: Modelagem de Engenharia de Software e Banco de Dados (IV SIMBAJU - Novembro/2025)**](./fase2-arquitetura-banco-dados.pdf)  
-   * **Foco:** Elicitação de Requisitos, Diagramas UML (Casos de Uso e Classes), DER/MER e Prototipagem de Alta Fidelidade.
-3. 📄 [**Fase 3: Especificação do MVP & Solução Multiplataforma (V SIMBAJU - Junho/2026)**](./fase3-especificacao-mvp-sistema.pdf)  
-   * **Foco:** Validação de Requisitos de Segurança/LGPD, Arquitetura Multiplataforma, Geolocalização em Tempo Real e Dashboards de BI.
+1. 📄 [**Sistema de Comunicação para Brigada Voluntária: Mapeamento de Processos (III SIMBAJU - Jun/2025)**](./artigo-simbaju-fase1.pdf)  
+   * **Foco:** Diagnóstico do processo comunicacional, Business Model Canvas, Personas, Mapas de Empatia e Mapeamento BPMN *As-Is / To-Be*.
 
+2. 📄 [**Sistema de Comunicação para Brigada Voluntária: Arquitetura & Banco de Dados (IV SIMBAJU - Nov/2025)**](./artigo-simbaju-fase2.pdf)  
+   * **Foco:** Elicitação de Requisitos, Diagramas UML (Casos de Uso e Classes), Modelagem de Banco de Dados Relacional (DER/MER) e Prototipagem.
+
+3. 📄 [**Sistema de Comunicação para Brigada Voluntária: Especificação do MVP (V SIMBAJU - Jun/2026)**](./artigo-simbaju-fase3.pdf)  
+   * **Foco:** Engenharia de Requisitos de Segurança/LGPD, Arquitetura Multiplataforma (Flutter/PHP/MySQL), Geolocalização em Tempo Real e Dashboards de BI.
 ---
 
 ## 🚀 Roadmap de Evolução do Produto
